@@ -1,0 +1,350 @@
+6
+35
+17
+25
+39
+60
+81
+119
+200
+ReverseSorted Array For InsertionSort
+1
+0
+0
+0
+0
+2
+0
+1
+1
+Sorted Array For InsertionSort
+7
+14
+12
+18
+37
+58
+79
+107
+83
+RandomListArray InsertionSort
+0
+1
+2
+3
+5
+7
+10
+14
+19
+HalfSortedArray InsertionSort
+0
+1
+3
+4
+7
+9
+13
+16
+15
+DuplicateElementsArray InsertionSort
+11
+38
+34
+91
+201
+180
+253
+247
+400
+ReverseSorted Array For BubbleSort
+5
+9
+12
+35
+61
+86
+120
+223
+341
+Sorted Array For BubbleSort
+10
+27
+47
+99
+192
+190
+280
+360
+336
+RandomListArray BubbleSort
+3
+11
+24
+44
+69
+114
+180
+304
+418
+HalfSortedArray BubbleSort
+5
+20
+45
+81
+127
+183
+255
+345
+272
+DuplicateElementsArray BubbleSort
+0
+1
+0
+0
+0
+1
+1
+2
+1
+ReverseSorted Array For MergeSort
+1
+0
+0
+1
+1
+1
+1
+1
+3
+Sorted Array For MergeSort
+0
+1
+2
+2
+1
+2
+2
+2
+3
+RandomListArray MergeSort
+0
+0
+1
+1
+1
+1
+1
+3
+4
+HalfSortedArray MergeSort
+0
+1
+2
+3
+4
+3
+4
+5
+5
+DuplicateElementsArray MergeSort
+7
+17
+42
+18
+17
+25
+39
+46
+64
+ReverseSorted Array For SelectionSort
+1
+3
+7
+13
+20
+29
+38
+51
+85
+Sorted Array For SelectionSort
+2
+6
+14
+24
+39
+56
+76
+58
+79
+RandomListArray SelectionSort
+2
+7
+15
+23
+26
+45
+86
+112
+95
+HalfSortedArray SelectionSort
+1
+5
+9
+17
+23
+26
+36
+46
+57
+DuplicateElementsArray SelectionSort
+1
+0
+1
+0
+1
+1
+1
+1
+1
+ReverseSorted Array For QuickSortRandomPivot
+0
+0
+1
+0
+1
+1
+1
+2
+1
+Sorted Array For QuickSortRandomPivot
+0
+1
+0
+1
+1
+1
+2
+2
+2
+RandomListArray QuickSortRandomPivot
+1
+0
+1
+1
+1
+1
+3
+4
+5
+HalfSortedArray QuickSortRandomPivot
+0
+1
+2
+2
+3
+3
+5
+5
+6
+DuplicateElementsArray QuickSortRandomPivot
+0
+1
+1
+2
+2
+4
+5
+5
+5
+ReverseSorted Array For QuickSortFrontPivot
+1
+1
+2
+2
+3
+3
+4
+5
+5
+Sorted Array For QuickSortFrontPivot
+1
+2
+3
+4
+5
+5
+8
+6
+8
+RandomListArray QuickSortFrontPivot
+0
+2
+2
+3
+4
+4
+6
+6
+8
+HalfSortedArray QuickSortFrontPivot
+1
+1
+2
+2
+5
+3
+4
+7
+7
+DuplicateElementsArray QuickSortFrontPivot
+1
+1
+1
+0
+1
+1
+1
+1
+1
+ReverseSorted Array For QuickSortMedianPivot
+4
+1
+0
+1
+1
+1
+1
+1
+2
+Sorted Array For QuickSortMedianPivot
+1
+0
+1
+1
+1
+1
+2
+3
+2
+RandomListArray QuickSortMedianPivot
+0
+1
+0
+0
+1
+1
+1
+1
+2
+HalfSortedArray QuickSortMedianPivot
+0
+1
+0
+1
+2
+1
+1
+2
+3
+DuplicateElementsArray QuickSortMedianPivot
